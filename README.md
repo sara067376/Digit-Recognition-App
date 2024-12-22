@@ -17,5 +17,5 @@ This is a simple **Digit Recognition App** using **Keras** and **TensorFlow**. T
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/Digit-Recognition-App.git
+   git clone https://github.com/sara067376/Digit-Recognition-App
 
